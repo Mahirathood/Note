@@ -31,6 +31,7 @@ Minimal Notes application demonstrating a full-stack setup with:
    npm run dev
    ```
 5. Open the app in your browser at `http://localhost:3000`.
+6. Live Open the app in your browser at `https://note-fhci.onrender.com/`.
 
 ## Deploy to Render.com (summary)
 1. Push this repo to GitHub.
