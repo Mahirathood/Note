@@ -31,7 +31,6 @@ Minimal Notes application demonstrating a full-stack setup with:
    npm run dev
    ```
 5. Open the app in your browser at `http://localhost:3000`.
-6. Live Open the app in your browser at `https://note-fhci.onrender.com/`.
 
 ## Deploy to Render.com (summary)
 1. Push this repo to GitHub.
@@ -40,6 +39,7 @@ Minimal Notes application demonstrating a full-stack setup with:
    Start Command: `npm start`
 4. In Render's Dashboard, set an Environment Variable `MONGODB_URI` with your production connection string.
 5. Deploy. Render provides the `PORT` environment variable automatically and your app reads it via `process.env.PORT`.
+6. Live Open the app in your browser at https://note-fhci.onrender.com/
 
 ## API Endpoints
 - `GET /api/notes` - list notes
